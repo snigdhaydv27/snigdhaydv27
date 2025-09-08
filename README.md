@@ -15,7 +15,7 @@
   <b>I'm a passionate programmer who loves to code 🚀</b>
 </p>
 
-<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="240">
 
 - ♑ I am creatively curious and a self-learner, always exploring new technologies.  
 - 📓 I'm a Computer Science student.  
